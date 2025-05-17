@@ -14,7 +14,7 @@ Ask health-related questions and get instant AI-powered responses in your browse
 
 ### 1. Clone the Repository
 
-git clone 
+git clone https://github.com/YousefAlbawab/AI_Powered_Chatbot_for_Healthcare_FAQs.git
 
 ### 2. Create and Activate a Virtual Environment
 
