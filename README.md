@@ -49,17 +49,17 @@ python app.py
 
 Open your browser and go to http://127.0.0.1:5000/
 
-## Usage
+### Usage
 
 - Type your healthcare question in the chat box and press "Send".
 - The bot will reply using the DEEPSEEK model.
 - **Note:** This chatbot is for informational purposes only and does not provide medical advice.
 
-## License
+### License
 
 This project is licensed under the MIT License.
 
-## Credits
+### Credits
 
 - [Flask](https://flask.palletsprojects.com/)
 - [DeepSeek API](https://platform.deepseek.com/)
